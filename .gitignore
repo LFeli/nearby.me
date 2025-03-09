@@ -104,6 +104,9 @@ react-native-debugger.json
 
 # macOS system files
 .DS_Store
+*.pem
+
+# local env files
 .env
 .env.local
 .env.development
@@ -111,7 +114,6 @@ react-native-debugger.json
 .env.test
 
 # Editor / IDE files
-.vscode/
 .idea/
 *.iml
 
